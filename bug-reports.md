@@ -23,7 +23,7 @@ https://disk.yandex.ru/i/XcsrrXIkeUDOcQ
 ## 2. [medium] Ошибка при клике на кнопку Questions в верхнем меню
 - **Описание**
 В верхнем меню при клике на кнопку Questions https://skillotron.com/questions возникает ошибка "Permission denied"
-- **Шаги воспроизведения
+- **Шаги воспроизведения**
 1. С главной страницы https://skillotron.com/ нажать в верхнем меню раздел Questions
 - **Текущий результат**
 Страница не открывается, появляется сообщение об ошибке "Permission denied"

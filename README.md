@@ -51,7 +51,7 @@ Markdown – формат документов для удобной струк�
 На hh.ru: https://hh.ru/resume/67cf16d4ff0c975f1d0039ed1f457a4b794245
 
 # Контакты
-Email: romanova.ns@gmail.com
-Telegram: MorenikaNS
-LinkedIn: https://www.linkedin.com/in/natalia-romanova-69664056/
-Телефон: 89104797396
+- Email: romanova.ns@gmail.com
+- Telegram: MorenikaNS
+- LinkedIn: https://www.linkedin.com/in/natalia-romanova-69664056/
+- Телефон: 89104797396

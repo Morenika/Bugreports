@@ -6,13 +6,13 @@
 - Все баг-репорты разбиты по приоритетам (high, medium, low) и содержат скриншоты, подтверждающие существование проблемы.
 
   skillotron-bug-reports/
-- bug-report-1-high.md
-- bug-report-2-medium.md
-- bug-report-3-low.md
-- bug-report-4-high.md
-- bug-report-5-medium.md
-- bug-report-6-medium.md
-- README.md
+bug-report-1-high.md
+bug-report-2-medium.md
+bug-report-3-low.md
+bug-report-4-high.md
+bug-report-5-medium.md
+bug-report-6-medium.md
+README.md
 
 bug-report-X.md – файлы с подробными описаниями выявленных дефектов, шагами воспроизведения, окружением и скриншотами.
 README.md – данный файл-описание, где изложена общая информация по проекту.
